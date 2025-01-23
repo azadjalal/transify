@@ -1,0 +1,4 @@
+{
+  "required": ":attribute الزامی است.",
+  "between": ":attribute باید مقداری بین :min و :max داشته باشد."
+}

@@ -1,3 +1,17 @@
+Metadata-Version: 2.1
+Name: transify
+Version: 1.0.0
+Summary: A lightweight Python package designed to facilitate seamless translation for multilingual websites.
+Home-page: https://github.com/azadjalal/transify
+Author: Mohammad Mahdi Azadjalal
+Author-email: mm.azadjalal@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # Transify: A Multi-Language Translator for Web Applications
 Transify is a Python library designed for easy integration of multi-language translation functionality in web applications. It allows you to use custom translation files (in JSON format) for various languages and locales. This tool is ideal for web frameworks like FastAPI, Flask, or any other platform where dynamic translations are necessary.
 

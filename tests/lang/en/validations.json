@@ -1,0 +1,4 @@
+{
+  "required": "The :attr is required.",
+  "between": "The :attr must be between :min and :max values."
+}

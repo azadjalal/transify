@@ -1,0 +1,5 @@
+dist/
+.idea/
+build/
+tests/__pycache__
+transify/__pycache__

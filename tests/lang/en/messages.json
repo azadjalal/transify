@@ -1,0 +1,9 @@
+{
+  "welcome": "Welcome, :name to my website :website",
+  "errors": {
+    "create": "Create item failed.",
+    "user": {
+      "not_found": "The user not found."
+    }
+  }
+}

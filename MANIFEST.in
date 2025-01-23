@@ -1,0 +1,2 @@
+exclude lang/*
+exclude tests/*

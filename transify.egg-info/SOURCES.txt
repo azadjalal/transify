@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+transify/__init__.py
+transify/translator.py
+transify.egg-info/PKG-INFO
+transify.egg-info/SOURCES.txt
+transify.egg-info/dependency_links.txt
+transify.egg-info/top_level.txt
